@@ -1,6 +1,6 @@
 asgiref==3.4.1
 dj-database-url==0.5.0
-Django
+Django==2.1.15
 django-allauth==0.50.0
 django-countries==5.3.3
 django-crispy-forms==1.13.0
